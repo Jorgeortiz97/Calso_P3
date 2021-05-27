@@ -1,5 +1,5 @@
 # Description
-This repository contains the files with the solutions for the third assignment of the subjetc Software Quality (University of Murcia).
+This repository contains the files with the solutions for the third assignment of the subject Software Quality (University of Murcia).
 
 
 ## Exercise 1: Skip instruction
